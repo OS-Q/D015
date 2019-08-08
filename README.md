@@ -1,4 +1,4 @@
-﻿# [运动感知](https://github.com/OS-Q/D15)
+﻿# [高速ADC](https://github.com/OS-Q/D15)
 [![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
 #### 归属驱动设备：[W3](https://github.com/OS-Q/W3)
 #### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
